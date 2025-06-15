@@ -1,3 +1,3 @@
-# LEETCODE:
+## LEETCODE:
 
-## 1. LC04 - HARD - Median of Two Sorted Arrays
+### 1. LC04 - HARD - Median of Two Sorted Arrays
