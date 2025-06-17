@@ -4,4 +4,4 @@
 
 ### CODEFORCES:
 #### 1. Watermelon - 800 - Bruteforce, Math
-#### 2. Watermelon - 800 - strings
+#### 2. Way Too Long Words - 800 - strings
