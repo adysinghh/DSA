@@ -3,6 +3,7 @@
 #### 2. LC413 - EASY - Third Maximum Number
 #### 3. LC39  - MEDIUM - Combination Sum (21/06/2025)
 #### 4. LC485 - EASY - Max Consecutive Ones (22/06/2025)
+#### 5. LC136 - EASY - Single Number (22/06/2025)
 
 ### CODEFORCES:
 #### 1. Watermelon - 800 - Bruteforce, Math
