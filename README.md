@@ -6,4 +6,5 @@
 
 ### CODEFORCES:
 #### 1. Watermelon - 800 - Bruteforce, Math
-#### 2. Way Too Long Words - 800 - strings
+#### 2. Way Too Long Words - 800 - Strings
+#### 3. Vanya and Cubes - 800 - Implementation
