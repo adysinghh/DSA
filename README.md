@@ -4,8 +4,10 @@
 #### 3. LC39  - MEDIUM - Combination Sum (21/06/2025)
 #### 4. LC485 - EASY - Max Consecutive Ones (22/06/2025)
 #### 5. LC136 - EASY - Single Number (22/06/2025)
+#### 6. LC75  - Medium - Sort Colors (23/06/2025)
 
 ### CODEFORCES:
 #### 1. Watermelon - 800 - Bruteforce, Math
 #### 2. Way Too Long Words - 800 - Strings
-#### 3. Vanya and Cubes - 800 - Implementation
+#### 3. Vanya and Cubes - 800 - Implementation (22/06/2025)
+
