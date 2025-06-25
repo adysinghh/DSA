@@ -1,4 +1,4 @@
-class Solution {
+class lc169 {
     public int majorityElement(int[] nums) {
         
         int candidate = -1, count = 0;
