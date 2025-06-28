@@ -10,6 +10,7 @@
 #### 9. LC2149  - Medium  - Rearrange Array Elements by Sign    (25/06/2025)
 #### 10. LC31   - Medium  - Next Permutation                    (25/06/2025)
 #### 11. LC73   - Medium  - Set Matrix Zeroes                   (26/06/2025)
+#### 12. LC48   - Medium  - Rotate Image                        (28/06/2025)
 
 ### CODEFORCES:
 #### 1. Watermelon - 800 - Bruteforce, Math
