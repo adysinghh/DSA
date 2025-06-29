@@ -11,9 +11,12 @@
 #### 10. LC31   - Medium  - Next Permutation                    (25/06/2025)
 #### 11. LC73   - Medium  - Set Matrix Zeroes                   (26/06/2025)
 #### 12. LC48   - Medium  - Rotate Image                        (28/06/2025)
+#### 13. LC54   - Medium  - Spiral Matrix                       (29/06/2025)
+#### 14. LC118  - Medium  - Pascal's Triangle                   (29/06/2025)
 
 ### CODEFORCES:
-#### 1. Watermelon - 800 - Bruteforce, Math
-#### 2. Way Too Long Words - 800 - Strings
-#### 3. Vanya and Cubes - 800 - Implementation (22/06/2025)
+#### 1. Watermelon          - 800 - Bruteforce, Math
+#### 2. Way Too Long Words  - 800 - Strings
+#### 3. Vanya and Cubes     - 800 - Implementation              (22/06/2025)
+#### 4. Good Kid            - 800 - Bruteforce, Greedy, Math    
 
