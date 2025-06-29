@@ -18,5 +18,5 @@
 #### 1. Watermelon          - 800 - Bruteforce, Math
 #### 2. Way Too Long Words  - 800 - Strings
 #### 3. Vanya and Cubes     - 800 - Implementation              (22/06/2025)
-#### 4. Good Kid            - 800 - Bruteforce, Greedy, Math    
+#### 4. Good Kid            - 800 - Bruteforce, Greedy, Math    (29/06/2025)
 
