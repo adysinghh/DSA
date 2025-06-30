@@ -19,4 +19,4 @@
 #### 2. Way Too Long Words  - 800 - Strings
 #### 3. Vanya and Cubes     - 800 - Implementation              (22/06/2025)
 #### 4. Good Kid            - 800 - Bruteforce, Greedy, Math    (29/06/2025)
-
+#### 5. In Search of an Easy Problem - 800 - Implementation     (30/06/2025)
