@@ -13,6 +13,7 @@
 #### 12. LC48   - Medium  - Rotate Image                        (28/06/2025)
 #### 13. LC54   - Medium  - Spiral Matrix                       (29/06/2025)
 #### 14. LC118  - Medium  - Pascal's Triangle                   (29/06/2025)
+#### 15. LC229  - Medium  - Majority Element II                 (05/08/2025)
 
 ### CODEFORCES:
 #### 1. Watermelon          - 800 - Bruteforce, Math
