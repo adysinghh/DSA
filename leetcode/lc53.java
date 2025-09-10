@@ -1,21 +1,25 @@
 class Solution {
     public int maxSubArray(int[] nums) {
-        int sum = 0;
-        int max = nums[0];
+        int max = nums[0], sum = 0, n = nums.length;
 
-        for(int i = 0; i < nums.length; i++) {
-            // sum = sum + nums[i];
-            sum += nums[i]; // this small change pushed TM to 0ms
+        // This loop fails time complexity - 205/210 pass.
+        // for (int i = 0; i<nums.length; i++) {
+        //     for (int j = i; j<nums.length; j++) {
+        //         sum += nums[j];
 
-            // if (sum > max) {
-            //     max = sum;
-            // }
+        //         if (sum > max) {
+        //             max = sum;
+        //         }
+        //     }
+        //     sum = 0;
+        // }
+
+        for (int i = 0; i<n; i++) {
+            sum += nums[i];
 
             max = sum>max?sum:max;
-            
-            if (sum < 0) {
-                sum = 0;
-            }
+
+            if (sum < 0) sum = 0;
         }
 
         return max;
